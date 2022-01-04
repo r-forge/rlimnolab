@@ -36,7 +36,7 @@ and reservoirs.
 The system of ordinary differential equations originates from the habilitation
 thesis of Benndorf (1979) who modelled annual time-dependend development
 of phytoplankton (two groups), zooplankton, oxygen, nutrients (N and P)
-and external detritus of the water body, based on eld observations and laboratory
+and external detritus of the water body, based on field observations and laboratory
 experiments. First implementations in Fortran and HPL (Hewlett
 Packard Language) have been developed by Recknagel (Recknagel, 1980;
 Recknagel and Benndorf, 1982) and were used for numerous theoretical and
