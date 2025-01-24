@@ -1,9 +1,10 @@
 Package: rSALMO
 Type: Package
 Title: Simulation of ecological lake models
-Version: 0.3-0
-Date: 2015-02-15
+Version: 0.3-1
+Date: 2025-01-24
 LazyData: yes
+Encoding: UTF-8
 Depends: R (>= 2.15),
     deSolve,
     ReacTran,
@@ -17,3 +18,4 @@ Description: Simulation of ecological lake models. The current version of the
     in 0D (1 box), 0.5 D (2 box) and vertically resolved in 1D.
 License: GPL (>= 2)
 URL: http://rlimnolab.r-forge.r-project.org/
+RoxygenNote: 7.3.2
